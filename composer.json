@@ -10,7 +10,7 @@
     "oat",
     "computer-based-assessment"
   ],
-  "name": "oat-sa/extension-tao-foobar",
+  "name": "ssipasseuth/extension-tao-foobar",
   "description": "dummy extension for testing",
   "type": "tao-extension",
   "authors": [{
